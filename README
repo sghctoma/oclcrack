@@ -1,0 +1,6 @@
+OCLCrack is just another MD5 hash cracker that can utilize the power of the GPU.
+The program uses OpenCL, so it should be able to run on any hardware that
+implements this GPGPU standard. That said, it was developed on, and is optimized
+for the CUDA architecture, so there can be problems (mostly performance-related)
+on other platforms.
+For usage information, please use the --help option.
